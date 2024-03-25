@@ -9,6 +9,8 @@ public class MycoolappApplication {
 
 	private String test2;
 
+	private Double test3;
+
 	public static void main(String[] args) {
 		SpringApplication.run(MycoolappApplication.class, args);
 	}
