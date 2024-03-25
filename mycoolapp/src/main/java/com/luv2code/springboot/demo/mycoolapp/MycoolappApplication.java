@@ -7,6 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MycoolappApplication {
 	private String test;
 
+	private String test2;
+
 	public static void main(String[] args) {
 		SpringApplication.run(MycoolappApplication.class, args);
 	}
