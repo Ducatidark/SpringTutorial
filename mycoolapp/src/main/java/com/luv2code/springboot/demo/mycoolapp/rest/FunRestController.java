@@ -11,6 +11,6 @@ public class FunRestController {
 	}
 	@GetMapping("/git")
 	public String sayGoodBye() {
-		return "Good bye 2";
+		return "Good Bye 2";
 	}
 }
