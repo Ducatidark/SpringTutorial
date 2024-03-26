@@ -9,4 +9,8 @@ public class FunRestController {
 	public String sayHello() {
 		return "Hello World 2";
 	}
+	@GetMapping("/git")
+	public String sayGoodBye() {
+		return "Hello World 2";
+	}
 }
